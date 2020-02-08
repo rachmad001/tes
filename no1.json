@@ -1,0 +1,70 @@
+{
+	"name"       : "Rachmad Sukri",
+	"age"        : 18,
+	"address"    : "BTN Tirasa kav 8 no 2, kel Sudiang, Kota Makassar",
+	"hobbies"    : ["dengar music", "main game", "nonton film", "renang"],
+	"is_married" : false,
+	"list_school": [
+		{
+			"name"    : "SD INP PAI II",
+			"year_in" : 2007,
+			"year_out": 2013,
+			"major"   : null
+		},
+		{
+			"name"    : "MTs Negeri Biringkanaya",
+			"year_in" : 2013,
+			"year_out": 2016,
+			"major"   : null
+		},
+		{
+			"name"    : "SMK Telkom Makassar",
+			"year_in" : 2016,
+			"year_out": 2019,
+			"major"   : null
+		}
+	],
+	"skills" : [
+		{
+			"name" : "HTML",
+			"level": "advanced"
+		},
+		{
+			"name" : "CSS",
+			"level": "advanced"
+		},
+		{
+			"name" : "jquery",
+			"level": "beginner"
+		},
+		{
+			"name" : "javascript",
+			"level": "beginner"
+		},
+		{
+			"name" : "PHP",
+			"level": "advanced"
+		},
+		{
+			"name" : "JSON",
+			"level": "beginner"
+		},
+		{
+			"name" : "SQL",
+			"level": "beginner"
+		},
+		{
+			"name" : "JAVA",
+			"level": "advanced"
+		},
+		{
+			"name" : "C++",
+			"level": "beginner"
+		},
+		{
+			"name" : "NETWORKING",
+			"level": "advanced"
+		}
+	],
+	"interest_in_coding": true
+}
